@@ -155,24 +155,19 @@ article:nth-last-of-type(1) .task1 blockquote::after {
     line-height: 40px;
 }
 
-article:nth-last-of-type(1) .task1:hover h4 {
+article:nth-last-of-type(1) .task1:has(blockquote:hover) h4 {
     color: rgb(184, 59, 2);
 }
 
-article:nth-last-of-type(1) .task1:hover blockquote::before,
-article:nth-last-of-type(1) .task1:hover blockquote::after {
+article:nth-last-of-type(1) .task1 blockquote:hover::before,
+article:nth-last-of-type(1) .task1 blockquote:hover::after {
     background-color: rgb(184, 59, 2);
 }
 
 /* Task 6 */
-article:nth-last-of-type(1) .task2 li:nth-child(even) {
-    list-style-type: none;
-    background-image: url(Images/sf.png);
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 20px;
-    padding-left: 25px;
-    margin-left: -20px;
+article:last-of-type .task2 ul li:nth-child(even)::marker {
+    content: "\263A";
+    font-size: 1.2em;
 }
 
 /* Task 7 */
