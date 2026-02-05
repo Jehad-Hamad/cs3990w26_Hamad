@@ -214,10 +214,18 @@ article:nth-last-of-type(1) .task3 .correct::after {
     color: green;
 }
 
-article:nth-last-of-type(1) .task3 .wrong:hover {
+article:last-of-type .task3 span:first-child:hover {
     background-color: rgb(184, 59, 2);
 }
 
-article:nth-last-of-type(1) .task3 .correct:hover {
+article:last-of-type .task3 span:first-child:hover ~ .correct {
+    background-color: rgb(184, 59, 2);
+}
+
+article:last-of-type .task3 span:last-of-type:hover {
+    background-color: rgb(184, 59, 2);
+}
+
+article:last-of-type .task3 span:last-of-type:hover ~ .wrong {
     background-color: rgb(184, 59, 2);
 }
