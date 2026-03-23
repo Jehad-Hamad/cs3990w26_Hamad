@@ -8,4 +8,5 @@
 - [Assignment 4](https://jehad-hamad.github.io/cs3990w26_Hamad/a4/)
 - [Assignment 5](https://jehad-hamad.github.io/cs3990w26_Hamad/a5/)
 - [Assignment 6](https://jehad-hamad.github.io/cs3990w26_Hamad/a6/)
+- [Assignment 7](https://jehad-hamad.github.io/cs3990w26_Hamad/a7/)
 - [Midterm](https://jehad-hamad.github.io/cs3990w26_Hamad/Midterm/)
