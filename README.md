@@ -14,4 +14,5 @@
 - [Assignment 8 Task 2](https://jehad-hamad.github.io/cs3990w26_Hamad/a8/t2/)
 - [Assignment 8 Task 3](https://jehad-hamad.github.io/cs3990w26_Hamad/a8/t3/)
 - [Assignment 8 Task 4](https://jehad-hamad.github.io/cs3990w26_Hamad/a8/t4/)
+- [FINAL Project](https://jehad-hamad.github.io/cs3990w26_Hamad/finalProject/)
 - [Midterm](https://jehad-hamad.github.io/cs3990w26_Hamad/Midterm/)
